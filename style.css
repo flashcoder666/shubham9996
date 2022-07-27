@@ -96,7 +96,7 @@ nav ul li a:hover{
 }
 
 .col-1 {
-    background: url(./ak/_MG_1229.jpg);
+    background: url(./ak/first.jpg);
     background-size: cover;
     background-position: 70% 50%;
     grid-area: 1 / 1 / 6 / 2;
