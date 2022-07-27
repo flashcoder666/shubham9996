@@ -100,7 +100,7 @@ nav ul li a:hover{
     background-size: cover;
     background-position: 70% 50%;
     grid-area: 1 / 1 / 6 / 2;
-    opacity: 0.5;
+    opacity: 0.6;
     z-index: -1;
 }
 
